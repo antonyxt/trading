@@ -23,6 +23,32 @@ Zone must have:
 
 👉 If weak zone → SKIP
 
+## 🔥 Zone Scoring System (SMC)
+
+You can create a simple scoring model to filter high-quality trading zones.
+
+### 📊 Scoring Table
+
+| Feature           | Score |
+|------------------|------|
+| Displacement     | +2   |
+| Liquidity Sweep  | +2   |
+| FVG Present      | +1   |
+| Fresh Zone       | +1   |
+
+---
+
+### ✅ How to Use
+
+- **Score ≥ 4** → High probability zone (trade confidently)
+- **Score 2–3** → Moderate quality (reduce size / be selective)
+- **Score ≤ 1** → Ignore (low probability)
+
+---
+
+### 🎯 Key Idea
+
+> Not all zones are equal — trade only the ones with strong confluence.
 ---
 
 ## 3. WAIT
