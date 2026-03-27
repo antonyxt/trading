@@ -55,28 +55,3 @@ To determine if a swing point will hold or be "swept," use **Candle Science**.
 > **Final Motto:** "Whenever in doubt, wait for a new Fair Value Gap."
 
 **Video Link:** [![Watch the video](http://img.youtube.com/vi/S6xnKJjq3bE/0.jpg)](https://youtu.be/S6xnKJjq3bE)
-
-mindmap
-  root((PD Array Success))
-    Strategy
-      ::icon(fa fa-bullseye)
-      Intention & Retracement
-    Core Principles
-      Push Analogy
-      Current Lag Focus
-      Timeframe Hierarchy
-    Step 1: Blocks
-      Order/Mitigation/Breaker
-      3-Candle Pattern
-      Disrespected Rule
-    Step 2: FVGs
-      3rd Candle Rule
-      Sliver Gaps (Weak)
-      HTF to LTF Pairing
-    Step 3: Swings
-      Candle Science (Wicks)
-      Fractal Intention
-      Targeting Opposing Low
-    Final Motto
-      ::icon(fa fa-star)
-      Wait for New FVG
