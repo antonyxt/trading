@@ -58,42 +58,25 @@ To determine if a swing point will hold or be "swept," use **Candle Science**.
 
 mindmap
   root((PD Array Success))
-    Strategy: Intention & Retracement
-      Core Principles
-        The Push Analogy
-          Aggressive opposing FVGs = Weakness
-        Current Lag Focus
-          Most recent Swing High/Low only
-        Timeframe Hierarchy
-          HTF for Array
-          LTF for Entry
-      Step 1: Fair Value Areas
-        Blocks
-          Order Blocks
-          Mitigation Blocks
-          Breaker Blocks
-        Intention Check
-          3-Candle Pattern
-          Danger: Opposing FVG created
-          Strength: 3rd candle trades into 1st
-        Disrespected Rule
-          Wait for opposing FVG to be closed through
-      Step 2: Fair Value Gaps
-        3rd Candle Rule
-          Dictates strength of expansion
-        Sliver Gaps
-          Deep retracement = Pierced/Failure
-        Confirmation Pairings
-          Daily to 4H
-          4H to 15M
-          15M to 1M
-      Step 3: Swing Points
-        Candle Science
-          Wicks = Sweeps
-          Bodies = Breaks
-        Fractal Intention
-          Sweep + Opposite FVG
-        Targeting
-          If High swept -> Low is the Draw
-      Final Motto
-        Wait for a new FVG
+    Strategy
+      ::icon(fa fa-bullseye)
+      Intention & Retracement
+    Core Principles
+      Push Analogy
+      Current Lag Focus
+      Timeframe Hierarchy
+    Step 1: Blocks
+      Order/Mitigation/Breaker
+      3-Candle Pattern
+      Disrespected Rule
+    Step 2: FVGs
+      3rd Candle Rule
+      Sliver Gaps (Weak)
+      HTF to LTF Pairing
+    Step 3: Swings
+      Candle Science (Wicks)
+      Fractal Intention
+      Targeting Opposing Low
+    Final Motto
+      ::icon(fa fa-star)
+      Wait for New FVG
