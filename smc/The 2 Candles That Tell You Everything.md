@@ -25,4 +25,4 @@ To confirm if a PD Array is being "disrespected," Arjo looks for price to "run" 
 * If price is approaching a target but a bearish FVG is in the way, you wait for price to trade above the "Rejection High" of that FVG. 
 * Once that high is "run," the resistance is considered broken, giving you the **clarity** to enter a trade toward your higher time-frame target [[21:49](http://www.youtube.com/watch?v=YZPD-TAFNuk&t=1309)].
 
-**Watch the full video here:** [![Watch the video](http://img.youtube.com/vi/YZPD-TAFNuk/0.jpg)](https://youtu.com/watch?v=YZPD-TAFNuk)
+**Watch the full video here:** [![Watch the video](http://img.youtube.com/vi/YZPD-TAFNuk/0.jpg)](https://youtube.com/watch?v=YZPD-TAFNuk)

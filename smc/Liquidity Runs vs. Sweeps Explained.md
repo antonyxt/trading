@@ -23,4 +23,4 @@ The video explains that how price reacts after crossing a liquidity level determ
 The video concludes by advising traders to perform case studies to recognize these patterns objectively, as this provides control and removes guesswork from trading [[20:11](http://www.youtube.com/watch?v=Fom_7tuVqmc&t=1211)].
 
 
-**Watch the full video here:** [![Watch the video](http://img.youtube.com/vi/Fom_7tuVqmc/0.jpg)](https://youtu.com/watch?v=Fom_7tuVqmc)
+**Watch the full video here:** [![Watch the video](http://img.youtube.com/vi/Fom_7tuVqmc/0.jpg)](https://youtube.com/watch?v=Fom_7tuVqmc)
