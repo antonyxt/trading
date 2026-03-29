@@ -1,0 +1,11 @@
+Role: Act as an expert content synthesizer and technical writer.
+Task: Provide a comprehensive yet concise summary of the following YouTube video transcript. Your goal is "Information Density"—the reader should understand every key argument, data point, and conclusion without watching the video.
+Format Requirements:
+
+The "One-Sentence Hook": Start with a single bold sentence stating the primary purpose or thesis of the video.
+Key Pillars (Bullet Points): Identify the 3–5 main sections or themes. For each pillar, provide 2–3 sub-bullets that capture the "how" and "why," including specific examples, names, or metrics mentioned.
+The "Golden Nuggets": A short list of unique insights, contrarian views, or specific "pro-tips" shared by the creator.
+The Final Verdict: A 2-sentence closing on the ultimate conclusion or call to action reached at the end of the video.
+Constraint: Avoid filler phrases like "The speaker discusses..." or "The video mentions..." Jump straight into the facts. If there is a step-by-step process, use a numbered list for that section.
+Transcript:
+https://www.youtube.com/watch?v=IA_N-icYiAs
