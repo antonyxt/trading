@@ -19,4 +19,4 @@
 ### The Final Verdict
 Success in trading relies on waiting for the specific moment when two-candle rejection fails and clears the path for a high-speed move to the next target. By avoiding entries into active resistance and focusing on "No Resistance Runs," traders can align themselves with the path of least resistance for faster, more reliable payouts.
 
-**Watch the full video here:** [![Watch the video](http://img.youtube.com/vi/IA_N-icYiAs/0.jpg)](https://youtu.com/IA_N-icYiAs)
+**Watch the full video here:** [![Watch the video](http://img.youtube.com/vi/IA_N-icYiAs/0.jpg)](https://youtu.com/watch?v=IA_N-icYiAs)

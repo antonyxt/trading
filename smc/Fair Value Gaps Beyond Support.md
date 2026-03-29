@@ -24,4 +24,4 @@
 ### The Final Verdict
 Stop viewing Fair Value Gaps as static safety nets and start using them as indicators of market pressure that must clear opposing "walls" to unlock explosive moves. True profitability lies in trading alongside active momentum rather than trying to catch falling knives during retracements.
 
-**Watch the full video here:** [![Watch the video](http://img.youtube.com/vi/m9lbglU1jdQ/0.jpg)](https://youtu.com/m9lbglU1jdQ)
+**Watch the full video here:** [![Watch the video](http://img.youtube.com/vi/m9lbglU1jdQ/0.jpg)](https://youtu.com/watch?v=m9lbglU1jdQ)

@@ -54,4 +54,4 @@ To determine if a swing point will hold or be "swept," use **Candle Science**.
 
 > **Final Motto:** "Whenever in doubt, wait for a new Fair Value Gap."
 
-**Video Link:** [![Watch the video](http://img.youtube.com/vi/S6xnKJjq3bE/0.jpg)](https://youtu.be/S6xnKJjq3bE)
+**Video Link:** [![Watch the video](http://img.youtube.com/vi/S6xnKJjq3bE/0.jpg)](https://youtu.be/watch?v=S6xnKJjq3bE)

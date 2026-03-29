@@ -34,4 +34,4 @@
 ### **The Final Verdict**
 To achieve long-term profitability, traders must stop using the same entry trigger for every setup and instead demand more evidence when price shows "respect" to the opposing side. Success is found not just in catching winners, but in using scaled confirmation to avoid the premature losses that occur when price struggles against counter-trend barriers.
 
-**Watch the full video here:** [![Watch the video](http://img.youtube.com/vi/8mPlORPHo-w/0.jpg)](https://youtu.com/8mPlORPHo-w)
+**Watch the full video here:** [![Watch the video](http://img.youtube.com/vi/8mPlORPHo-w/0.jpg)](https://youtube.com/watch?v=8mPlORPHo-w)
