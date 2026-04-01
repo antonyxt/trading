@@ -45,11 +45,5 @@ The 1-minute entry is effective only when you have already established a clear *
 ### The Final Verdict
 Mastering entries requires the discipline to wait for price to "prove" its momentum shift through objective expansion candles rather than guessing at support levels. Stop obsessing over the entry itself and focus on building a solid foundation of bias and context to ensure you are trading in an "Area of Opportunity."
 
-**Video Link:** [https://www.youtube.com/watch?v=jT8PC5XWNno](https://www.youtube.com/watch?v=jT8PC5XWNno)
-
-
-
-http://googleusercontent.com/youtube_content/0
-
 
 **Video Link:** [![Watch the video](http://img.youtube.com/vi/jT8PC5XWNno/0.jpg)](https://youtube.com/watch?v=jT8PC5XWNno)
