@@ -8,4 +8,4 @@ The "Golden Nuggets": A short list of unique insights, contrarian views, or spec
 The Final Verdict: A 2-sentence closing on the ultimate conclusion or call to action reached at the end of the video.
 Constraint: Avoid filler phrases like "The speaker discusses..." or "The video mentions..." Jump straight into the facts. If there is a step-by-step process, use a numbered list for that section.
 Transcript:
-https://www.youtube.com/watch?v=IA_N-icYiAs
+https://www.youtube.com/watch?v=jT8PC5XWNno
