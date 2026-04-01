@@ -1,36 +1,55 @@
-**Successful trading relies on aligning entry execution with higher-timeframe momentum rather than attempting to predict the exact bottom of a retracement.**
+**Trading success is dictated by aligning with market momentum rather than attempting to "call" tops or bottoms during active retracements.**
 
 ### Key Pillars
-
 * **The Momentum Misalignment Trap**
-    * Most traders fail by "calling the bottom," entering a lower-timeframe reversal while the higher timeframe still carries strong bearish momentum [[01:24](http://www.youtube.com/watch?v=jT8PC5XWNno&t=84)].
-    * Price movement mimics physical momentum; a car traveling at 100km/h cannot instantly reverse to 100km/h in the opposite direction without a period of deceleration and consolidation [[03:02](http://www.youtube.com/watch?v=jT8PC5XWNno&t=182)].
-    * Entering against a "failed gap" or strong higher-timeframe trend is essentially forcing your will on a market that isn't ready to turn [[05:41](http://www.youtube.com/watch?v=jT8PC5XWNno&t=341)].
+    * Traders often fail by entering a lower-time-frame (LTF) reversal while the higher-time-frame (HTF) is still in an active, high-velocity retracement [[01:24](http://www.youtube.com/watch?v=jT8PC5XWNno&t=84)].
+    * Market momentum is likened to a speeding car: it cannot go from 100 to 0 instantly; it requires a period of consolidation and "sweeps" before a true reversal occurs [[02:41](http://www.youtube.com/watch?v=jT8PC5XWNno&t=161)].
+    * Entering too early is "forcing your will" on the market instead of waiting for bullish momentum to become the dominant force [[05:16](http://www.youtube.com/watch?v=jT8PC5XWNno&t=316)].
 
 * **The Hierarchy of Trading Skills**
-    * Traders must master skills in a specific order: 1) Bias/Direction, 2) Context Areas, 3) Entries, 4) Risk Management, and 5) Psychology [[07:18](http://www.youtube.com/watch?v=jT8PC5XWNno&t=438)].
-    * Attempting to fix psychology or entry mechanics is useless if the "foundation" (bias and context) is built on "chopsticks" rather than solid analysis [[07:55](http://www.youtube.com/watch?v=jT8PC5XWNno&t=475)].
-    * An entry is only valid if the underlying instrument (e.g., Gold vs. Silver) and the specific area of opportunity are correctly identified first [[09:17](http://www.youtube.com/watch?v=jT8PC5XWNno&t=557)].
+    * Successful trading is built on a foundation (Bias and Context) that must be mastered before focusing on the "skyscraper" (Entries and Psychology) [[07:05](http://www.youtube.com/watch?v=jT8PC5XWNno&t=425)].
+    * **The 5-Step Skill Stack:** 1. Bias/Direction, 2. Context Areas, 3. Entries, 4. Risk Management, 5. Psychology [[07:23](http://www.youtube.com/watch?v=jT8PC5XWNno&t=443)].
+    * An entry is only relevant if the preceding bias—such as choosing whether Gold is stronger than Silver or ES is more probable than NASDAQ—is correct [[08:52](http://www.youtube.com/watch?v=jT8PC5XWNno&t=532)].
 
-* **The "Area of Opportunity" Framework**
-    * **Targeting:** Identify a clear swing high or resistance level where the move will likely end [[10:39](http://www.youtube.com/watch?v=jT8PC5XWNno&t=639)].
-    * **Boundary:** Define the specific price point where you start looking for an entry—usually after a resistance level is no longer seen as a barrier [[11:09](http://www.youtube.com/watch?v=jT8PC5XWNno&t=669)].
-    * **The Void:** High-probability trades occur when there is "nothing preventing price from continuing higher" toward the next major target [[11:50](http://www.youtube.com/watch?v=jT8PC5XWNno&t=710)].
+* **Defining the "Area of Opportunity"**
+    * This zone is framed by a **Boundary** (where you start looking for an entry) and a **Target** (where you stop looking) [[10:00](http://www.youtube.com/watch?v=jT8PC5XWNno&t=600)].
+    * The Boundary begins when there is no longer a logical reason for the market to continue its retracement, such as after a significant swing high/low is disrespected [[12:18](http://www.youtube.com/watch?v=jT8PC5XWNno&t=738)].
+    * Once a target is met or reached, traders must step back and wait for a new context to form rather than chasing further movement [[10:58](http://www.youtube.com/watch?v=jT8PC5XWNno&t=658)].
 
 * **The "Two-Sting" Entry Model**
-    1.  **First Sting:** Price trades above a resistance level (swing high) and immediately retraces back below it [[13:43](http://www.youtube.com/watch?v=jT8PC5XWNno&t=823)].
-    2.  **Wait for Rejection:** Do not enter yet; wait to see if the market creates a larger rejection, which proves the edge is present [[13:53](http://www.youtube.com/watch?v=jT8PC5XWNno&t=833)].
-    3.  **Second Sting & Expansion:** Enter when price trades above that same high a second time, specifically using an "Expansion Phase Candle" (a candle that closes its body above the previous candle's high) [[14:51](http://www.youtube.com/watch?v=jT8PC5XWNno&t=891)].
+    * **Sting 1:** Price trades above/below a key resistance/support level and retraces, signaling a potential shift [[13:43](http://www.youtube.com/watch?v=jT8PC5XWNno&t=823)].
+    * **Sting 2:** Price breaks the level again with an "Expansion Phase Candle"—a candle that closes its body past the previous candle's high/low [[14:45](http://www.youtube.com/watch?v=jT8PC5XWNno&t=885)].
+    * **Execution:** Enter on the "future creation" of a Fair Value Gap (FVG), using the expansion candle to confirm that momentum has officially shifted in your direction [[15:55](http://www.youtube.com/watch?v=jT8PC5XWNno&t=955)].
 
 ### Golden Nuggets
+* **The Overflow Transition:** A high-probability setup where price sweeps a low and then "disrespects" a bearish FVG, confirming that the bearish momentum has been completely overtaken [[19:52](http://www.youtube.com/watch?v=jT8PC5XWNno&t=1192)].
+* **The 1:2 RR Sweet Spot:** Avoid "crazy ideas" of targeting massive moves; a consistent 1:2 Risk-to-Reward ratio often hits before the market reaches a logical target and reverses [[17:52](http://www.youtube.com/watch?v=jT8PC5XWNno&t=1072)].
+* **Body Over Wicks:** When setting stop losses for the Two-Sting model, covering the candle bodies rather than the wicks can be more effective because if a newly created FVG is invalidated, the trade thesis is likely dead anyway [[17:06](http://www.youtube.com/watch?v=jT8PC5XWNno&t=1026
 
-* **The Expansion Candle Rule:** A valid entry requires a body closure above the previous candle's high, signaling the "future creation" of a Fair Value Gap (FVG) [[15:20](http://www.youtube.com/watch?v=jT8PC5XWNno&t=920)].
-* **The 1:2 RR Sweet Spot:** Avoid greed by targeting a fixed 1:2 Risk-to-Reward ratio rather than the ultimate target; markets often reverse violently just before reaching a logical destination [[17:52](http://www.youtube.com/watch?v=jT8PC5XWNno&t=1072)].
-* **Overflow Transition:** A powerful setup occurs when a bearish FVG is disrespected and price sweeps a low before running the highs, signaling a high-probability momentum shift [[19:52](http://www.youtube.com/watch?v=jT8PC5XWNno&t=1192)].
-* **Momentum Entry:** Never enter against momentum; wait for the expansion candle to ensure you are entering *with* the current flow of the market [[21:43](http://www.youtube.com/watch?v=jT8PC5XWNno&t=1303)].
+The 1-minute entry is effective only when you have already established a clear **"Area of Opportunity"** on higher time frames.
+
+### How to Execute the 1-Minute Entry:
+1.  **Time Frame Alignment:** Once price enters your higher-time-frame context area (the zone between your Boundary and Target), you can drop down to the 1-minute chart to hunt for the specific entry [[20:54](http://www.youtube.com/watch?v=jT8PC5XWNno&t=1254)].
+2.  **The Entry Options:**
+    * **The Two-Sting Model:** You can apply the same two-sting logic (sweep, rejection, then expansion candle) on the 1-minute chart [[21:04](http://www.youtube.com/watch?v=jT8PC5XWNno&t=1264)].
+    * **FVG Formation:** Alternatively, you can wait for a 1-minute Fair Value Gap (FVG) to form and be respected [[21:08](http://www.youtube.com/watch?v=jT8PC5XWNno&t=1268)].
+    * **Expansion Confirmation:** Look for an expansion candle that closes above the previous candle's high. This ensures you are entering **with** the immediate momentum rather than catching a falling knife [[21:37](http://www.youtube.com/watch?v=jT8PC5XWNno&t=1297)].
+
+
+### Why the 1-Minute Works (According to Arjo):
+* **Momentum Timing:** Entering on the 1-minute expansion candle ensures you aren't entering against the current trend. It places you in the market at the exact moment momentum has shifted in your favor [[21:43](http://www.youtube.com/watch?v=jT8PC5XWNno&t=1303)].
+* **Precision:** For scalpers, this allows for a tighter stop loss and higher probability, provided the "foundation" (the bias and higher-time-frame context) is already solid [[21:28](http://www.youtube.com/watch?v=jT8PC5XWNno&t=1288)].
+
+**The Bottom Line:** Don't just trade 1-minute patterns in isolation. Use the 1-minute chart as a "microscope" to refine your entry once the higher-time-frame "telescope" has already pointed you in the right direction.
 
 ### The Final Verdict
-The ultimate goal of this strategy is to stop fighting the market's current velocity and instead wait for objective "stings" and expansion candles to confirm a shift in power. Traders should focus on defining their "Area of Opportunity" and executing with a disciplined 1:2 reward ratio to ensure long-term statistical success.
+Mastering entries requires the discipline to wait for price to "prove" its momentum shift through objective expansion candles rather than guessing at support levels. Stop obsessing over the entry itself and focus on building a solid foundation of bias and context to ensure you are trading in an "Area of Opportunity."
+
+**Video Link:** [https://www.youtube.com/watch?v=jT8PC5XWNno](https://www.youtube.com/watch?v=jT8PC5XWNno)
+
+
+
+http://googleusercontent.com/youtube_content/0
 
 
 **Video Link:** [![Watch the video](http://img.youtube.com/vi/jT8PC5XWNno/0.jpg)](https://youtube.com/watch?v=jT8PC5XWNno)
