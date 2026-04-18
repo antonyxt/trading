@@ -1,0 +1,32 @@
+1. Create signals and rank
+   - drop table signal_runs
+   - execute "updateSignal.py" this will recreate signal_runs
+2. Update rank in bhavcopy table 4 - means ignore rank
+   - UPDATE bhavcopy SET rank = 4 // if required ALTER TABLE bhavcopy ADD COLUMN rank INTEGER;
+3. Update rank in bhavcopy by refering newly populated signals run 
+    UPDATE bhavcopy
+	SET rank = (
+		SELECT CASE
+			WHEN signal = -1 AND count > 25 THEN 1
+			WHEN signal = -1 AND count > 15 THEN 2
+			WHEN signal = -1 AND count > 5  THEN 3
+			WHEN signal = 1  AND count > 25 THEN 7
+			WHEN signal = 1  AND count > 15 THEN 6
+			WHEN signal = 1  AND count > 5  THEN 5
+			ELSE 4
+		END
+		FROM signal_runs r
+		WHERE r.symbol = bhavcopy.symbol
+		  AND r.trade_date = bhavcopy.trade_date
+	)
+   
+3. Create symbol_map table csv file
+run this query
+SELECT
+    symbol,
+    COUNT(DISTINCT trade_date) AS traded_days
+FROM bhavcopy
+WHERE trade_date >= strftime('%Y-%m-%d', 'now', '-6 months') and symbol not like '%etf' and symbol not like '%bees'
+GROUP BY symbol
+HAVING traded_days >= 75
+ORDER BY traded_days DESC;
