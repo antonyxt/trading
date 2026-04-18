@@ -184,6 +184,6 @@ def main():
 
     raise ValueError("Invalid argument combination")
 
-# py bhavcopy_downloader.py --start-date="2026-03-21" --end-date="2026-03-19"
+# py bhavcopy_downloader.py --start-date="2026-04-18" --end-date="2026-03-21"
 if __name__ == "__main__":
     main()
